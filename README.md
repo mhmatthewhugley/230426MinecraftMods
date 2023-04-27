@@ -1,7 +1,7 @@
 # 230426MinecraftMods
 Mods and Configs for Client & Server, for a 1.6.4 Forge Java Edition Minecraft Server powered by Docker.
 
-Info:
+Archive Information:
 \
 ```mods.zip``` Contains all Mods the Server uses except for a Client side one.
 \
